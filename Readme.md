@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that classifies a message as **Spam** or **Not Spam**, built with Python, scikit-learn, NLTK and Streamlit, and deployed as a live web app.
 
-🔗 **Live Demo:** [Add your Streamlit link here](https://your-app-name.streamlit.app)
+🔗 **Live Demo:** [Add your Streamlit link here]([https://your-app-name.streamlit.app](https://email-sms-spam-classifier-ac5q2ljwjwyaese3vbgmj8.streamlit.app/))
 
 <!-- Add a screenshot: save it in the repo as screenshot.png, then uncomment the line below -->
 <!-- ![App Screenshot](screenshot.png) -->
