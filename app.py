@@ -22,8 +22,8 @@ def transform_text(text):
 
 @st.cache_resource
 def load_models():
-    tfidf = pickle.load(open('vectorizer.pkl', 'rb'))
-    model = pickle.load(open('model.pkl', 'rb'))
+    tfidf = pickle.load(open('vectorizer (3).pkl', 'rb'))
+    model = pickle.load(open('model (3).pkl', 'rb'))
     return tfidf, model
 
 
